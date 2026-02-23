@@ -1,0 +1,191 @@
+
+
+body.cv{
+    font-family: Arial, sans-serif;
+    background-color: rgb(240,240,240);
+    color: rgb(60,60,60);
+}
+
+
+
+.encabezado{
+    background-color: rgb(255,255,255);
+    padding:40px;
+    border-top: 15px solid rgb(156,102,68);
+
+    background-image: url("Proyecto-modulo-1.jpeg");
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.encabezado__nombre{
+    font-size:36px;
+    font-weight:300;
+    color: rgb(156,102,68);
+    margin-bottom:10px;
+}
+
+.encabezado__titulo{
+    font-size:18px;
+    color: rgb(120,120,120);
+    margin-bottom:20px;
+}
+
+.encabezado__descripcion{
+    font-size:14px;
+    color: rgb(90,90,90);
+    max-width:800px;
+}
+
+
+.contenido-principal{
+    background-color: rgb(255,255,255);
+    margin:30px;
+    padding:40px;
+    border-radius:8px;
+    box-shadow:0px 4px 12px rgba(0,0,0,0.08);
+}
+
+
+
+.seccion_seccion--formacion-academica,
+.seccion__seccion--formacion-complementaria,
+.seccion{
+    margin-bottom:40px;
+}
+
+.seccion__titulo{
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:15px;
+    border-bottom:2px solid rgb(156,102,68);
+    padding-bottom:5px;
+}
+
+.seccion__lista{
+    margin-left:20px;
+}
+
+
+
+.seccion__escuela{
+    font-weight:600;
+    margin-top:15px;
+}
+
+.seccion__escuela--detalle{
+    font-size:14px;
+    margin-left:10px;
+    color: rgb(90,90,90);
+}
+
+.seccion__escuela--detalle-tiempo{
+    font-size:13px;
+    margin-left:10px;
+    color: rgb(120,120,120);
+    margin-bottom:8px;
+}
+
+
+
+.seccion__item{
+    font-weight:600;
+    margin-top:15px;
+}
+
+.seccion__detalle{
+    font-size:14px;
+    margin-left:10px;
+    color: rgb(90,90,90);
+}
+
+
+
+.seccion__curso{
+    font-weight:600;
+    margin-top:15px;
+}
+
+.seccion__curso-detalle{
+    font-size:14px;
+    margin-left:10px;
+    color: rgb(90,90,90);
+}
+
+
+
+.perfil{
+    margin-top:40px;
+    padding-top:20px;
+}
+
+
+
+.contacto__info{
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:15px;
+    border-bottom:2px solid rgb(156,102,68);
+    padding-bottom:5px;
+}
+
+.contacto__lista{
+    margin-bottom:20px;
+    margin-left:20px;
+}
+
+.contacto__item{
+    font-size:14px;
+    margin-bottom:8px;
+    color: rgb(80,80,80);
+}
+
+
+
+.habilidades__titulo{
+    font-size:18px;
+    font-weight:600;
+    margin-top:30px;
+    margin-bottom:15px;
+    border-bottom:2px solid rgb(156,102,68);
+    padding-bottom:5px;
+}
+
+.habilidades__categoria{
+    font-size:15px;
+    font-weight:600;
+    margin-top:15px;
+    margin-bottom:8px;
+}
+
+.habilidades__lista{
+    margin-left:20px;
+}
+
+.habilidades__item{
+    font-size:14px;
+    margin-bottom:6px;
+    color: rgb(90,90,90);
+}
+
+
+
+.idiomas__titulo{
+    font-size:18px;
+    font-weight:600;
+    margin-top:30px;
+    margin-bottom:15px;
+    border-bottom:2px solid rgb(156,102,68);
+    padding-bottom:5px;
+}
+
+.idiomas__lista{
+    margin-left:20px;
+}
+
+.idiomas__detalle{
+    font-size:14px;
+    margin-bottom:6px;
+    color: rgb(90,90,90);
+}
